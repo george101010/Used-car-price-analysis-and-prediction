@@ -1,0 +1,256 @@
+"Features_subset","number_of_features","Adj_R_sqr","AIC"
+"Mark",1,0.555177978829001,24772.9753471489
+"Location",1,0.502763922535774,25331.8134665764
+"Mark ; Location",2,0.599441024407942,24242.0746647657
+"Fuel_Type",1,0.503929091580904,25311.7203177159
+"Mark ; Fuel_Type",2,0.583324121875818,24437.6775428603
+"Location ; Fuel_Type",2,0.549274638241125,24827.0617489866
+"Mark ; Location ; Fuel_Type",3,0.630917588000039,23821.7596012967
+"Transmission",1,0.476424326971813,25589.168502374
+"Mark ; Transmission",2,0.565679848721355,24650.6854641683
+"Location ; Transmission",2,0.517136342746164,25181.4652062412
+"Mark ; Location ; Transmission",3,0.607655726381454,24136.1452022989
+"Fuel_Type ; Transmission",2,0.530077310915511,25033.3018990866
+"Mark ; Fuel_Type ; Transmission",3,0.600238637781216,24224.8366856756
+"Location ; Fuel_Type ; Transmission",3,0.572913259079375,24550.0842246701
+"Mark ; Location ; Fuel_Type ; Transmission",4,0.644686985903847,23626.5642228945
+"Owner_Type",1,0.492154225702261,25431.7690781276
+"Mark ; Owner_Type",2,0.589922580494104,24354.3158694282
+"Location ; Owner_Type",2,0.529402607061489,25048.6912117869
+"Mark ; Location ; Owner_Type",3,0.62876397034353,23850.7887165321
+"Fuel_Type ; Owner_Type",2,0.532368611102559,25008.0806712523
+"Mark ; Fuel_Type ; Owner_Type",3,0.61418365038552,24041.6241953434
+"Location ; Fuel_Type ; Owner_Type",3,0.572070599686726,24560.2550826555
+"Mark ; Location ; Fuel_Type ; Owner_Type",4,0.656163932432961,23457.1400872742
+"Transmission ; Owner_Type",2,0.507957141239153,25269.6505640886
+"Mark ; Transmission ; Owner_Type",3,0.599477782879656,24233.6541849226
+"Location ; Transmission ; Owner_Type",3,0.543511520518991,24892.6209063185
+"Mark ; Location ; Transmission ; Owner_Type",4,0.636183393232539,23747.6101704055
+"Fuel_Type ; Transmission ; Owner_Type",3,0.557748307360998,24721.1454398526
+"Mark ; Fuel_Type ; Transmission ; Owner_Type",4,0.629509994316068,23833.4574073447
+"Location ; Fuel_Type ; Transmission ; Owner_Type",4,0.594998676823869,24277.1017303196
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type",5,0.668604306324162,23267.9762505059
+"SEATS",1,0.481507032914793,25543.8268077172
+"Mark ; SEATS",2,0.571865164013633,24581.6409793546
+"Location ; SEATS",2,0.523050209780805,25122.8629094459
+"Mark ; Location ; SEATS",3,0.616092265323609,24028.9394003197
+"Fuel_Type ; SEATS",2,0.512480020779388,25227.9921276656
+"Mark ; Fuel_Type ; SEATS",3,0.594317025487592,24305.6778335658
+"Location ; Fuel_Type ; SEATS",3,0.556759727532278,24746.631517034
+"Mark ; Location ; Fuel_Type ; SEATS",4,0.641288870776136,23680.6360366283
+"Transmission ; SEATS",2,0.50896090222144,25264.1071735239
+"Mark ; Transmission ; SEATS",3,0.584770644264578,24424.7013474452
+"Location ; Transmission ; SEATS",3,0.548147013715882,24844.9388734737
+"Mark ; Location ; Transmission ; SEATS",4,0.626576926076583,23887.0491344791
+"Fuel_Type ; Transmission ; SEATS",3,0.546022628578031,24861.1650691773
+"Mark ; Fuel_Type ; Transmission ; SEATS",4,0.612559658800991,24069.2584651472
+"Location ; Fuel_Type ; Transmission ; SEATS",4,0.587327842469369,24378.9015213127
+"Mark ; Location ; Fuel_Type ; Transmission ; SEATS",5,0.656410671151642,23459.3843091756
+"Owner_Type ; SEATS",2,0.512180519592354,25230.1629737901
+"Mark ; Owner_Type ; SEATS",3,0.605436868554269,24161.2736698923
+"Location ; Owner_Type ; SEATS",3,0.548367755479314,24842.4174653021
+"Mark ; Location ; Owner_Type ; SEATS",4,0.64413954892616,23638.4745933802
+"Fuel_Type ; Owner_Type ; SEATS",3,0.540558475464843,24922.9009638899
+"Mark ; Fuel_Type ; Owner_Type ; SEATS",4,0.624632257781102,23905.9151182864
+"Location ; Fuel_Type ; Owner_Type ; SEATS",4,0.579156972007577,24480.0707451726
+"Mark ; Location ; Fuel_Type ; Owner_Type ; SEATS",5,0.665962122137984,23313.9097738388
+"Transmission ; Owner_Type ; SEATS",3,0.538739483548766,24942.2918151171
+"Mark ; Transmission ; Owner_Type ; SEATS",4,0.617150516184773,24006.7585983976
+"Location ; Transmission ; Owner_Type ; SEATS",4,0.572637870147196,24558.3933460579
+"Mark ; Location ; Transmission ; Owner_Type ; SEATS",5,0.653603573483236,23500.3789184577
+"Fuel_Type ; Transmission ; Owner_Type ; SEATS",4,0.572906502711349,24547.1737229931
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; SEATS",5,0.64113974181743,23674.8464384176
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS",5,0.608638787732013,24106.3011328453
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS",6,0.679621402685118,23099.4654248061
+"YEAR",1,0.663162378199451,23333.1421067461
+"Mark ; YEAR",2,0.776831986536103,21234.7108676848
+"Location ; YEAR",2,0.682175081612865,23043.2898939643
+"Mark ; Location ; YEAR",3,0.794736830379753,20813.0639797715
+"Fuel_Type ; YEAR",2,0.692317222271048,22867.989343555
+"Mark ; Fuel_Type ; YEAR",3,0.792137371356524,20870.0862545204
+"Location ; Fuel_Type ; YEAR",3,0.707411615810209,22618.3698546378
+"Mark ; Location ; Fuel_Type ; YEAR",4,0.808040028045854,20469.289288123
+"Transmission ; YEAR",2,0.673633179437524,23171.1898164173
+"Mark ; Transmission ; YEAR",3,0.779202963073852,21180.5871351066
+"Location ; Transmission ; YEAR",3,0.692153880806633,22879.6761862302
+"Mark ; Location ; Transmission ; YEAR",4,0.796766333511815,20762.779837203
+"Fuel_Type ; Transmission ; YEAR",3,0.709570854212739,22571.2024924134
+"Mark ; Fuel_Type ; Transmission ; YEAR",4,0.796977938291124,20749.4922759745
+"Location ; Fuel_Type ; Transmission ; YEAR",4,0.723326922370384,22330.763068353
+"Mark ; Location ; Fuel_Type ; Transmission ; YEAR",5,0.81210522941948,20359.8284798332
+"Owner_Type ; YEAR",2,0.663532337931982,23328.4670209321
+"Mark ; Owner_Type ; YEAR",3,0.777501302205466,21220.2022837382
+"Location ; Owner_Type ; YEAR",3,0.682926150604222,23032.0750577452
+"Mark ; Location ; Owner_Type ; YEAR",4,0.795954357117439,20783.3544337987
+"Fuel_Type ; Owner_Type ; YEAR",3,0.692677837814001,22862.9331203398
+"Mark ; Fuel_Type ; Owner_Type ; YEAR",4,0.792689609618528,20857.3491198257
+"Location ; Fuel_Type ; Owner_Type ; YEAR",4,0.708168506862251,22605.9973310446
+"Mark ; Location ; Fuel_Type ; Owner_Type ; YEAR",5,0.809147857934956,20440.4118271552
+"Transmission ; Owner_Type ; YEAR",3,0.674052215715305,23165.5556448724
+"Mark ; Transmission ; Owner_Type ; YEAR",4,0.779895413887013,21165.3693314778
+"Location ; Transmission ; Owner_Type ; YEAR",4,0.692945390348052,22867.3853873655
+"Mark ; Location ; Transmission ; Owner_Type ; YEAR",5,0.797986895394927,20732.6850933741
+"Fuel_Type ; Transmission ; Owner_Type ; YEAR",4,0.709993426319481,22564.6841039417
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; YEAR",5,0.797551886243326,20735.8739020194
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; YEAR",5,0.724136739815174,22316.6305644202
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; YEAR",6,0.813209850152225,20330.3914049813
+"SEATS ; YEAR",2,0.677800843649828,23109.8471026097
+"Mark ; SEATS ; YEAR",3,0.787757747123744,20981.6353981701
+"Location ; SEATS ; YEAR",3,0.695401997685529,22829.9076042228
+"Mark ; Location ; SEATS ; YEAR",4,0.804817687986896,20559.1393180496
+"Fuel_Type ; SEATS ; YEAR",3,0.698181666119173,22774.6574801676
+"Mark ; Fuel_Type ; SEATS ; YEAR",4,0.799572990144147,20688.0580216079
+"Location ; Fuel_Type ; SEATS ; YEAR",4,0.712854214832622,22527.4373608985
+"Mark ; Location ; Fuel_Type ; SEATS ; YEAR",5,0.814989020546434,20284.9559664729
+"Transmission ; SEATS ; YEAR",3,0.695508551685973,22819.1628070188
+"Mark ; Transmission ; SEATS ; YEAR",4,0.791085651493071,20901.0760282354
+"Location ; Transmission ; SEATS ; YEAR",4,0.712221112962192,22537.8095674672
+"Mark ; Location ; Transmission ; SEATS ; YEAR",5,0.807738118483238,20482.336126227
+"Fuel_Type ; Transmission ; SEATS ; YEAR",4,0.720070471915234,22387.1683186487
+"Mark ; Fuel_Type ; Transmission ; SEATS ; YEAR",5,0.805019002758717,20546.898886456
+"Location ; Fuel_Type ; Transmission ; SEATS ; YEAR",5,0.733256158519525,22148.1308218116
+"Mark ; Location ; Fuel_Type ; Transmission ; SEATS ; YEAR",6,0.819654712513143,20154.146535922
+"Owner_Type ; SEATS ; YEAR",3,0.678203559622344,23104.3878467873
+"Mark ; Owner_Type ; SEATS ; YEAR",4,0.788457118033594,20965.5934553003
+"Location ; Owner_Type ; SEATS ; YEAR",4,0.696154744366514,22818.1323072697
+"Mark ; Location ; Owner_Type ; SEATS ; YEAR",5,0.806039658867521,20527.7198851101
+"Fuel_Type ; Owner_Type ; SEATS ; YEAR",4,0.698578464672007,22768.8630571614
+"Mark ; Fuel_Type ; Owner_Type ; SEATS ; YEAR",5,0.800173041025249,20673.5752514859
+"Location ; Fuel_Type ; Owner_Type ; SEATS ; YEAR",5,0.713625363049063,22514.5531048222
+"Mark ; Location ; Fuel_Type ; Owner_Type ; SEATS ; YEAR",6,0.81612527338999,20254.1546368457
+"Transmission ; Owner_Type ; SEATS ; YEAR",4,0.695967719240722,22812.369802209
+"Mark ; Transmission ; Owner_Type ; SEATS ; YEAR",5,0.791807166377389,20884.2133323199
+"Location ; Transmission ; Owner_Type ; SEATS ; YEAR",5,0.713009092095473,22524.6534709108
+"Mark ; Location ; Transmission ; Owner_Type ; SEATS ; YEAR",6,0.808957302249553,20450.4979501383
+"Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR",5,0.720529735736275,22379.6893212511
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR",6,0.805638263295025,20531.4731560018
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR",6,0.73406947271754,22133.3654061776
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR",7,0.82078224426507,20122.7711193445
+"Mil_sections",1,0.466554676703897,25686.5308583206
+"Mark ; Mil_sections",2,0.565515891869729,24653.6272584756
+"Location ; Mil_sections",2,0.508955325735379,25269.1546040416
+"Mark ; Location ; Mil_sections",3,0.609617804959433,24111.2680508634
+"Fuel_Type ; Mil_sections",2,0.504015630722913,25312.8181417531
+"Mark ; Fuel_Type ; Mil_sections",3,0.584775919077444,24421.6554017351
+"Location ; Fuel_Type ; Mil_sections",3,0.549327872613978,24828.4464436191
+"Mark ; Location ; Fuel_Type ; Mil_sections",4,0.632089392234232,23807.3349740732
+"Transmission ; Mil_sections",2,0.483631714964604,25519.6424859689
+"Mark ; Transmission ; Mil_sections",3,0.577435444384298,24511.0848727553
+"Location ; Transmission ; Mil_sections",3,0.524141530965318,25108.052275223
+"Mark ; Location ; Transmission ; Mil_sections",4,0.61897823776138,23987.0282077376
+"Fuel_Type ; Transmission ; Mil_sections",3,0.530153259146531,25034.4655515753
+"Mark ; Fuel_Type ; Transmission ; Mil_sections",4,0.601733544120342,24207.4922331128
+"Location ; Fuel_Type ; Transmission ; Mil_sections",4,0.572936377105344,24551.7986876118
+"Mark ; Location ; Fuel_Type ; Transmission ; Mil_sections",5,0.645883706670672,23611.1392116359
+"Owner_Type ; Mil_sections",2,0.496583566639164,25388.5655102209
+"Mark ; Owner_Type ; Mil_sections",3,0.597807339361037,24256.1241109576
+"Location ; Owner_Type ; Mil_sections",3,0.534084825157524,24999.0891396617
+"Mark ; Location ; Owner_Type ; Mil_sections",4,0.636896603080286,23738.4768977374
+"Fuel_Type ; Owner_Type ; Mil_sections",3,0.532237322952327,25011.5268166552
+"Mark ; Fuel_Type ; Owner_Type ; Mil_sections",4,0.615022986374237,24032.3740067112
+"Location ; Fuel_Type ; Owner_Type ; Mil_sections",4,0.571956218415067,24563.6278941661
+"Mark ; Location ; Fuel_Type ; Owner_Type ; Mil_sections",5,0.65690228397897,23448.0312067669
+"Transmission ; Owner_Type ; Mil_sections",3,0.513221167033411,25216.1479437461
+"Mark ; Transmission ; Owner_Type ; Mil_sections",4,0.608580538931826,24117.0164676068
+"Location ; Transmission ; Owner_Type ; Mil_sections",4,0.548909504419467,24833.2343556119
+"Mark ; Location ; Transmission ; Owner_Type ; Mil_sections",5,0.645317414563097,23618.3926420939
+"Fuel_Type ; Transmission ; Owner_Type ; Mil_sections",4,0.557631919494871,24724.5005072023
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; Mil_sections",5,0.630402088471783,23823.0049093093
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; Mil_sections",5,0.594884470924138,24280.5499772552
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; Mil_sections",6,0.669379012839353,23257.882746723
+"SEATS ; Mil_sections",2,0.48821581948169,25478.6223119171
+"Mark ; SEATS ; Mil_sections",3,0.581420226665923,24467.1625383635
+"Location ; SEATS ; Mil_sections",3,0.529855965863174,25050.695376668
+"Mark ; Location ; SEATS ; Mil_sections",4,0.625613107518575,23901.3412283894
+"Fuel_Type ; SEATS ; Mil_sections",3,0.512962778567094,25224.8757273523
+"Mark ; Fuel_Type ; SEATS ; Mil_sections",4,0.59595928586124,24286.732606524
+"Location ; Fuel_Type ; SEATS ; Mil_sections",4,0.557200064599901,24743.4945939913
+"Mark ; Location ; Fuel_Type ; SEATS ; Mil_sections",5,0.642719769640743,23661.9932468611
+"Transmission ; SEATS ; Mil_sections",3,0.517410999206606,25176.5339866154
+"Mark ; Transmission ; SEATS ; Mil_sections",4,0.595935450486013,24286.0443195364
+"Location ; Transmission ; SEATS ; Mil_sections",4,0.556500259791414,24750.647249005
+"Mark ; Location ; Transmission ; SEATS ; Mil_sections",5,0.637445549729389,23736.6184049061
+"Fuel_Type ; Transmission ; SEATS ; Mil_sections",4,0.546810683159989,24854.1954336351
+"Mark ; Fuel_Type ; Transmission ; SEATS ; Mil_sections",5,0.614385708870984,24046.8664732339
+"Location ; Fuel_Type ; Transmission ; SEATS ; Mil_sections",5,0.588016666504699,24372.2727934963
+"Mark ; Location ; Fuel_Type ; Transmission ; SEATS ; Mil_sections",6,0.657988765324877,23437.6112310272
+"Owner_Type ; SEATS ; Mil_sections",3,0.516996790845144,25180.9609388096
+"Mark ; Owner_Type ; SEATS ; Mil_sections",4,0.612677284349352,24067.6916691343
+"Location ; Owner_Type ; SEATS ; Mil_sections",4,0.55356949237782,24784.6337655052
+"Mark ; Location ; Owner_Type ; SEATS ; Mil_sections",5,0.651719462032833,23529.3599250833
+"Fuel_Type ; Owner_Type ; SEATS ; Mil_sections",4,0.540616779585289,24924.241445178
+"Mark ; Fuel_Type ; Owner_Type ; SEATS ; Mil_sections",5,0.625598337593408,23894.6029263218
+"Location ; Fuel_Type ; Owner_Type ; SEATS ; Mil_sections",5,0.579258250759717,24480.8202427765
+"Mark ; Location ; Fuel_Type ; Owner_Type ; SEATS ; Mil_sections",6,0.666884337932081,23301.6255031145
+"Transmission ; Owner_Type ; SEATS ; Mil_sections",4,0.545056474902845,24873.1326676757
+"Mark ; Transmission ; Owner_Type ; SEATS ; Mil_sections",5,0.625767629872741,23891.276731484
+"Location ; Transmission ; Owner_Type ; SEATS ; Mil_sections",5,0.579210459970777,24480.4106979264
+"Mark ; Location ; Transmission ; Owner_Type ; SEATS ; Mil_sections",6,0.662359051215595,23370.2603470156
+"Fuel_Type ; Transmission ; Owner_Type ; SEATS ; Mil_sections",5,0.573170793364541,24545.974612329
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; Mil_sections",6,0.642265043616729,23660.6252320165
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; Mil_sections",6,0.608925616841261,24104.5090213815
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; Mil_sections",7,0.680676716050748,23084.4213766271
+"YEAR ; Mil_sections",2,0.663677380961241,23327.2374200904
+"Mark ; YEAR ; Mil_sections",3,0.777181692702992,21228.5991926363
+"Location ; YEAR ; Mil_sections",3,0.682650611180852,23037.5504560597
+"Mark ; Location ; YEAR ; Mil_sections",4,0.795022127241178,20807.8635377863
+"Fuel_Type ; YEAR ; Mil_sections",3,0.699050541229016,22755.8040487968
+"Mark ; Fuel_Type ; YEAR ; Mil_sections",4,0.796978394465931,20750.4704028375
+"Location ; Fuel_Type ; YEAR ; Mil_sections",4,0.71307257828442,22519.5423473194
+"Mark ; Location ; Fuel_Type ; YEAR ; Mil_sections",5,0.812128088670177,20360.1884158717
+"Transmission ; YEAR ; Mil_sections",3,0.673879747303532,23169.2802618066
+"Mark ; Transmission ; YEAR ; Mil_sections",4,0.779405767261262,21177.8254830497
+"Location ; Transmission ; YEAR ; Mil_sections",4,0.692393356148769,22877.6469706603
+"Mark ; Location ; Transmission ; YEAR ; Mil_sections",5,0.796921813127503,20760.8068513488
+"Fuel_Type ; Transmission ; YEAR ; Mil_sections",4,0.716046785444447,22456.8331719824
+"Mark ; Fuel_Type ; Transmission ; YEAR ; Mil_sections",5,0.801441926786467,20636.7490652198
+"Location ; Fuel_Type ; Transmission ; YEAR ; Mil_sections",5,0.7288178459637,22229.3121212108
+"Mark ; Location ; Fuel_Type ; Transmission ; YEAR ; Mil_sections",6,0.815891676030887,20256.7576478087
+"Owner_Type ; YEAR ; Mil_sections",3,0.664033352788528,23322.7680951322
+"Mark ; Owner_Type ; YEAR ; Mil_sections",4,0.777831368357436,21214.5220230592
+"Location ; Owner_Type ; YEAR ; Mil_sections",4,0.68337988638793,23026.6721003078
+"Mark ; Location ; Owner_Type ; YEAR ; Mil_sections",5,0.796216559226488,20778.6955561405
+"Fuel_Type ; Owner_Type ; YEAR ; Mil_sections",4,0.699364972565951,22751.4047157582
+"Mark ; Fuel_Type ; Owner_Type ; YEAR ; Mil_sections",5,0.797445905473357,20739.5639575372
+"Location ; Fuel_Type ; Owner_Type ; YEAR ; Mil_sections",5,0.713759666478704,22508.1638604702
+"Mark ; Location ; Fuel_Type ; Owner_Type ; YEAR ; Mil_sections",6,0.813125405587018,20333.7111642104
+"Transmission ; Owner_Type ; YEAR ; Mil_sections",4,0.674287025434565,23163.8269612393
+"Mark ; Transmission ; Owner_Type ; YEAR ; Mil_sections",5,0.780082311434276,21162.9655958566
+"Location ; Transmission ; Owner_Type ; YEAR ; Mil_sections",5,0.693167289829989,22865.6410050561
+"Mark ; Location ; Transmission ; Owner_Type ; YEAR ; Mil_sections",6,0.798124997485489,20731.1320362466
+"Fuel_Type ; Transmission ; Owner_Type ; YEAR ; Mil_sections",5,0.716421380607073,22451.0159778745
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; YEAR ; Mil_sections",6,0.801932381077997,20624.9770112272
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; YEAR ; Mil_sections",6,0.729558335410871,22216.1954462064
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; YEAR ; Mil_sections",7,0.816890606318953,20229.6717635165
+"SEATS ; YEAR ; Mil_sections",3,0.678114889465451,23106.8035292657
+"Mark ; SEATS ; YEAR ; Mil_sections",4,0.788172368676899,20973.5233822701
+"Location ; SEATS ; YEAR ; Mil_sections",4,0.695667737001652,22827.3882945017
+"Mark ; Location ; SEATS ; YEAR ; Mil_sections",5,0.805146434468222,20552.4150656577
+"Fuel_Type ; SEATS ; YEAR ; Mil_sections",4,0.703596474122291,22683.230919472
+"Mark ; Fuel_Type ; SEATS ; YEAR ; Mil_sections",5,0.804053735201909,20573.3693500163
+"Location ; Fuel_Type ; SEATS ; YEAR ; Mil_sections",5,0.717302196754419,22448.8653244255
+"Mark ; Location ; Fuel_Type ; SEATS ; YEAR ; Mil_sections",6,0.818734429347691,20181.3970688311
+"Transmission ; SEATS ; YEAR ; Mil_sections",4,0.695496633234106,22821.3526884408
+"Mark ; Transmission ; SEATS ; YEAR ; Mil_sections",5,0.791287979157866,20898.0539522402
+"Location ; Transmission ; SEATS ; YEAR ; Mil_sections",5,0.712207966192859,22540.0292705679
+"Mark ; Location ; Transmission ; SEATS ; YEAR ; Mil_sections",6,0.807883350185549,20480.410557121
+"Fuel_Type ; Transmission ; SEATS ; YEAR ; Mil_sections",5,0.724468006089266,22307.4513147681
+"Mark ; Fuel_Type ; Transmission ; SEATS ; YEAR ; Mil_sections",6,0.809001789867432,20442.3834322156
+"Location ; Fuel_Type ; Transmission ; SEATS ; YEAR ; Mil_sections",6,0.736859279663991,22079.9387617929
+"Mark ; Location ; Fuel_Type ; Transmission ; SEATS ; YEAR ; Mil_sections",7,0.822991959813463,20059.7403255855
+"Owner_Type ; SEATS ; YEAR ; Mil_sections",4,0.678508184853516,23101.4887851929
+"Mark ; Owner_Type ; SEATS ; YEAR ; Mil_sections",5,0.788852732638927,20957.9121633419
+"Location ; Owner_Type ; SEATS ; YEAR ; Mil_sections",5,0.696405332395485,22815.8589644214
+"Mark ; Location ; Owner_Type ; SEATS ; YEAR ; Mil_sections",6,0.806345601684146,20521.5480366327
+"Fuel_Type ; Owner_Type ; SEATS ; YEAR ; Mil_sections",5,0.703957198320437,22677.9408211857
+"Mark ; Fuel_Type ; Owner_Type ; SEATS ; YEAR ; Mil_sections",6,0.804572995518979,20560.6654626723
+"Location ; Fuel_Type ; Owner_Type ; SEATS ; YEAR ; Mil_sections",6,0.718019722383687,22436.7433889864
+"Mark ; Location ; Fuel_Type ; Owner_Type ; SEATS ; YEAR ; Mil_sections",7,0.819767297806789,20152.8971574916
+"Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",5,0.695950707015215,22814.6460430908
+"Mark ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",6,0.791995197727217,20881.5281869707
+"Location ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",6,0.712987850952145,22527.0189527044
+"Mark ; Location ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",7,0.809086817643744,20448.9718873341
+"Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",6,0.724891155040319,22300.5140095065
+"Mark ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",7,0.80954261365881,20428.739969454
+"Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",7,0.737622141930798,22065.9491573104
+"Mark ; Location ; Fuel_Type ; Transmission ; Owner_Type ; SEATS ; YEAR ; Mil_sections",8,0.824022233465571,20030.6049953323
